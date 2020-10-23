@@ -35,7 +35,7 @@ io.on('connection', socket => {
       "message",
       formatMessage(
           botName,
-          `Welcome ${user.username} to ChatSpace room: ${user.room}!`
+          `Welcome ${user.username} to ChatFlow room: ${user.room}!`
       )
   );
 

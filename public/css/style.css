@@ -35,8 +35,8 @@ a {
 .btn {
 	cursor: pointer;
 	padding: 5px 15px;
-	background: var(--light-color);
-	color: var(--dark-color-a);
+	background: #379683;
+	color: #000;
 	border: 0;
 	font-size: 17px;
 }
@@ -45,13 +45,13 @@ a {
 
 .chat-container {
 	max-width: 1100px;
-	background: #fff;
+	background: #;
 	margin: 30px auto;
 	overflow: hidden;
 }
 
 .chat-header {
-	background: var(--dark-color-a);
+	background: #2F2FA2;
 	color: #fff;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
@@ -67,7 +67,7 @@ a {
 }
 
 .chat-sidebar {
-	background: var(--dark-color-b);
+	background: #116466;
 	color: #fff;
 	padding: 20px 20px 60px;
 	overflow-y: scroll;
@@ -116,7 +116,7 @@ a {
 
 .chat-form-container {
 	padding: 20px 30px;
-	background-color: var(--dark-color-a);
+	background-color: #240090;
 }
 
 .chat-form-container form {
@@ -134,20 +134,20 @@ a {
 .join-container {
 	max-width: 500px;
 	margin: 80px auto;
-	color: #fff;
+	color: #000;
 }
 
 .join-header {
 	text-align: center;
 	padding: 20px;
-	background: var(--dark-color-a);
+	background: #2F2FA2;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
 
 .join-main {
 	padding: 30px 40px;
-	background: var(--dark-color-b);
+	background: #5CDB95;
 }
 
 .join-main p {
