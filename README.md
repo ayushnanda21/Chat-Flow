@@ -1,46 +1,74 @@
-Project Title
-It's a Multi Rooms real time chat application with different rooms for different users of department or some topic to interact with each other.
+## About The Project
+It's a Multi Rooms real time chat application with different rooms for different users of department or some topic to interact with each other. Uses sockets as medium of interaction.
 
-Prerequisites
-Text editor : Atom/ Visual Studio / Sublime text editor /any else you like.
-Frontend Languages : Html, Css , Javascript
-Backend Languages : Nodejs, Express Js, Socket.IO ie. Web sockets and Moment
-Working knowledge of Git command line.
+### Built With
+[Bootstrap](https://getbootstrap.com)
+[JQuery](https://jquery.com)
+[Nodejs](https://nodejs.org/en/)
+[Expressjs](https://expressjs.com/)
+[Socket](https://socket.io/)
 
-Installing
-Step 1: Install editor. and npm using command "npm install"
+<!-- GETTING STARTED -->
+## Getting Started
 
-Step 2: Install and create package.json file using command "npm init"
+### Prerequisites
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+  
+ * ExpressJs
+  ```sh
+  pip install express js
+  ```
+  
+  * Sockets
+  ```sh
+  pip install sockets
+  ```
+  
+  * Moment
+  ```sh
+  pip install moment
+  ```
 
+### Prerequisites
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+<!-- CONTRIBUTING -->
+## Contributing
 
-Step 3 : Install nodejs, express js, socket.io and moment using command "pip install nodejs express js socket.io moment"
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Step 4: Write the skeleton using html and css
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Step 5 : Write serverside and client side scripting code and link the files to socket moment 
+### Prerequisites
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+<!-- CONTRIBUTING -->
+## Contributing
 
-Example : For requiring express js
-"pip install express js" and in server side file write const express = require("express")
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+<!-- LICENSE -->
+## License
 
-Step 6: To start server $ npm start      
+Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONTACT -->
+## Contact
 
-Step 6: Write your code ,create a awesome UI and push to your repo.
-
-Step 7: To deploy your project use Heroku.
-
-
-Built With
-NODE JS
-EXPRESS JS
-SOCKET.IO
-MOMENT
-
-
-
-
-
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Project Link: [https://github.com/ayushnanda21/Chat-Flow](https://github.com/ayushnanda21/Chat-Flow)
