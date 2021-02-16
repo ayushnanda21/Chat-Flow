@@ -3,10 +3,10 @@ It's a Multi Rooms real time chat application with different rooms for different
 
 ### Built With
 [Bootstrap](https://getbootstrap.com)
-[JQuery](https://jquery.com)
-[Nodejs](https://nodejs.org/en/)
-[Expressjs](https://expressjs.com/)
-[Socket](https://socket.io/)
+*[JQuery](https://jquery.com)
+*[Nodejs](https://nodejs.org/en/)
+*[Expressjs](https://expressjs.com/)
+*[Socket](https://socket.io/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -30,28 +30,6 @@ It's a Multi Rooms real time chat application with different rooms for different
   * Moment
   ```sh
   pip install moment
-  ```
-
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
   ```
 <!-- CONTRIBUTING -->
 ## Contributing
